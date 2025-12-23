@@ -1,6 +1,11 @@
 # DHTMLX React Gantt MobX Demo
 
-This project demonstrates how to integrate the DHTMLX React Gantt component with MobX for state management in a React application. The integration enables centralized control of Gantt chart data, tasks, and links, providing predictable updates and smooth UI interactions through reactive observable state. The setup uses React 19+ and Vite, with full TypeScript support for enhanced code quality and maintainability.
+This project demonstrates how to integrate the DHTMLX React Gantt component with MobX for state management in a React application.
+
+The setup uses React 19+ and Vite, with full TypeScript support.
+
+**Related tutorial**:
+[https://docs.dhtmlx.com/gantt/integrations/react/state/mobx/](https://docs.dhtmlx.com/gantt/integrations/react/state/mobx/)
 
 ## Features:
 
